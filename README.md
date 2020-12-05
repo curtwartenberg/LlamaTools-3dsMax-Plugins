@@ -31,7 +31,7 @@ The ColorLlama plugin is still in progress with planned features including:
 
 
 ## Installation
-1. Go to this repo's ![releases](../../releases)
+1. Go to this repo's ![releases](../../releases/latest)
 2. Download the plugins you are looking for
 3. Unzip the plugin files
 4. Close 3ds Max
