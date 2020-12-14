@@ -17,18 +17,18 @@ Currently there are not video tutorials, I will add them once I have time to pro
 
 Some features of this plugin include:
 * Multiple color picking views, RGB square, Hue wheel, and HSV wheel
-* RGB, HSV, CieLab, CMYK, Temperature, and Hex color inputs
+* RGB, HSV, CieLab, CMYK, Temperature, and Hex color modes
 * Color palette with EV steps
 * Complementary and Invert color buttons
+* Switching spinners between 0 - 255 and 0.0 - 1.0 ranges
+* Expanded color modes with individual sliders
 
 The ColorLlama plugin is still in progress with planned features including:
 * Canvas view to allow drawing and mixing colors
 * Favorites menu with color naming and favorites
 * History stack
 * Custom color saving naming with search and filtering options
-* Switching spinners between 0 - 255 and 0.0 - 1.0 ranges
 * Maxscript color values to convert between color spaces
-
 
 ## Installation
 1. Go to this repo's ![releases](../../releases/latest)
