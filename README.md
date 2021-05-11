@@ -7,7 +7,7 @@ Hopefully you find these plugins useful and please reach out with any feature re
 (I will add information on how to do so soon.)
 
 ## Plugins
-* ColorLlama - 2020
+* ColorLlama - 2018, 2020, 2022
 
 ### ColorLlama
 The ColorLlama plugin is a Qt powered color picker dialog with a plethora of features to aid you in finding the exact color you're looking for.
@@ -21,7 +21,9 @@ Some features of this plugin include:
 * Color palette with EV steps
 * Complementary and Invert color buttons
 * Switching spinners between 0 - 255 and 0.0 - 1.0 ranges
+* Switching between sRgb and Rgb
 * Expanded color modes with individual sliders
+* Color palettes that can be clicked to set current color
 
 The ColorLlama plugin is still in progress with planned features including:
 * Canvas view to allow drawing and mixing colors
