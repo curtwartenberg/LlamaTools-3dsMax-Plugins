@@ -21,6 +21,7 @@ Some features of this plugin include:
 * Color palette with EV steps
 * Complementary and Invert color buttons
 * Switching spinners between 0 - 255 and 0.0 - 1.0 ranges
+* Switching between sRgb and Rgb
 * Expanded color modes with individual sliders
 * Switching between sRgb and Rgb
 
