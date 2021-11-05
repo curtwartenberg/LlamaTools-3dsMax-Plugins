@@ -7,7 +7,7 @@ Hopefully you find these plugins useful and please reach out with any feature re
 (I will add information on how to do so soon.)
 
 ## Plugins
-* ColorLlama - 2020
+* ColorLlama - 2020, 2022
 
 ### ColorLlama
 The ColorLlama plugin is a Qt powered color picker dialog with a plethora of features to aid you in finding the exact color you're looking for.
@@ -22,6 +22,7 @@ Some features of this plugin include:
 * Complementary and Invert color buttons
 * Switching spinners between 0 - 255 and 0.0 - 1.0 ranges
 * Expanded color modes with individual sliders
+* Switching between sRgb and Rgb
 
 The ColorLlama plugin is still in progress with planned features including:
 * Canvas view to allow drawing and mixing colors
@@ -35,8 +36,8 @@ The ColorLlama plugin is still in progress with planned features including:
 2. Download the plugins you are looking for
 3. Unzip the plugin files
 4. Close 3ds Max
-5. Copy the plugin files into the 3ds max plugins folder for the downloaded version
-    * Typically in *C:\Program Files\Autodesk\3ds Max **VERSION**\Plugins*
+5. Copy the plugin files into the Autodesk\ApplicationPlugins folder
+    * Typically in *C:\ProgramData\Autodesk\ApplicationPlugins*
 6. Restart 3ds max - Some plugins require extra installation steps inside of 3ds max, those are listed below
 
 ### ColorLlama - Extra Installation Steps
