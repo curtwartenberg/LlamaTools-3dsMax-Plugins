@@ -7,7 +7,7 @@ Hopefully you find these plugins useful and please reach out with any feature re
 (I will add information on how to do so soon.)
 
 ## Plugins
-* ColorLlama - 2020, 2022
+* ColorLlama - 2022, 2023, 2024
 
 ### ColorLlama
 The ColorLlama plugin is a Qt powered color picker dialog with a plethora of features to aid you in finding the exact color you're looking for.
